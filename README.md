@@ -2,10 +2,10 @@
 Identify the top 30 crops, along with all perennials, suitable for growth in every parcel within California. Based on USDA standards, Hardiness Zones and temperature zones are utilized to determine the crops suitable for each parcel’s environment. With CDFA reports and filtered ChatGPT insights, this report is composed of accurate real estate data and the 2023 market performance of the top 30 crops. Listed below are several metrics utilized to inform future agents and buyers.
 
 # Hardiness Zone
-Hardiness Zone is a USDA standard gardeners and growers utilize to inform themselves of the plants most likely to thrive within an area. Based on the measurement of the average annual extreme minimum winter temperature, the Hardiness Zone provides valuable information. With Hardiness Zones, growers and gardeners can find out the plants that are integrous to persevere through dry and cold temperatures. Provided with other measurements, future farmers, gardeners, and growers can effictively, and efficiently strategize their investments and schedules.
+The Hardiness Zone is a USDA standard that gardeners and growers use to determine which plants are most likely to thrive in a given area. Based on the measurement of the average annual extreme minimum winter temperature, the Hardiness Zone provides valuable information. Using Hardiness Zones, growers and gardeners can identify plants that are resilient enough to endure dry and cold temperatures. Combined with other measurements, future farmers, gardeners, and growers can effectively and efficiently strategize their investments and schedules.
 
 # Problem Statement
-Crops takes months and years to grow. Farmers success rely on several factors including suitable temperature zones, healthy soil, humidity, irrigation, proper crop selection based on market demands, pest management, and sustainable farming practices. Provide insights into crops that will endure through extreme temperature zones for each of the 50 parcels. Listed below is the data identified for each parcel:
+Crops take months and years to grow. Farmers' success relies on several factors, including suitable temperature zones, healthy soil, humidity, irrigation, proper crop selection based on market demands, pest management, and sustainable farming practices. Provide insights into crops that will endure extreme temperature zones for each of the 50 parcels. Listed below is the data identified for each parcel:
 
 - Hardiness Zone
 - Hardiness Zone Min. and Max. Temperatures
