@@ -5,7 +5,7 @@ Identify the top 30 crops, along with every perennial, suitable to grow in every
 Hardiness Zone is a USDA standard gardeners and growers utilize to inform themselves of the plants most likely to thrive within an area. Based on the measurement of the average annual extreme minimum winter temperature, the Hardiness Zone provides valuable information. With Hardiness Zones, growers and gardeners can find out the plants that are integrous to persevere through dry and cold temperatures. Provided with other measurements, future farmers, gardeners, and growers can effictively, and efficiently strategize their investments and schedules.
 
 # Problem Statement
-Crops takes months and years to grow. Farmers success rely on several factors including suitable temperature zones, healthy soil, humidity, irrigation, proper crop selection based on market demands, pest management, and sustainable farming practices. Provide insights into crops that will endure through extreme temperature zones for each of the 50 parcels:
+Crops takes months and years to grow. Farmers success rely on several factors including suitable temperature zones, healthy soil, humidity, irrigation, proper crop selection based on market demands, pest management, and sustainable farming practices. Provide insights into crops that will endure through extreme temperature zones for each of the 50 parcels. Listed below is the data identified for each parcel:
 
 - Hardiness Zone
 - Hardiness Zone Min. and Max. Temperatures
