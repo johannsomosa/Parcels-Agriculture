@@ -10,6 +10,7 @@ Crops takes months and years to grow. Farmers success rely on several factors in
 - Hardiness Zone
 - Hardiness Zone Min. and Max. Temperatures
 - Crops (Suitable based on Hardiness Zones & Temperatures)
+- Demand outlook of the top 30 crops for the years 2021, 2022, 2023
 - Acres
 - Price	
 - Type	
