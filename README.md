@@ -29,7 +29,7 @@ Crops takes months and years to grow. Farmers success rely on several factors in
 # 🛠 Tools Used
 Excel
 
-#Data
+# Data
 Parcel data (ChatGPT)
 Crop Names, Annual or Perrenial (CDFA)
 List of Hardiness Zones for cities in California (Plant Maps)
